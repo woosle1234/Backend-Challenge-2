@@ -32,6 +32,7 @@
 							<li><a href="#first">Information Page</a></li>
 							<li><a href="#second">Search Page</a></li>
 							<li><a href="#cta">Account</a></li>
+							<li><a href="#cta2">Travel Blog</a></li>
 						</ul>
 					</nav>
 
@@ -129,6 +130,19 @@
 									<ul class="actions special">
 										<li><a href="Login.php" class="button primary">Login</a></li>
 										<li><a href="Sign Up.php" class="button">Sign Up</a></li>
+									</ul>
+								</footer>
+							</section>
+
+							<!-- Get Started -->
+							<section id="cta2" class="main special">
+								<header class="major">
+									<h2>Travel Blog</h2>
+									<p>Link to Travel Blog.</p>
+								</header>
+								<footer class="major">
+									<ul class="actions special">
+										<li><a href="http://localhost:3000/" class="button primary">Learn More</a></li>
 									</ul>
 								</footer>
 							</section>
